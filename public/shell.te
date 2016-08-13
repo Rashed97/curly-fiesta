@@ -131,6 +131,7 @@ allow shell {
   proc_timer
   proc_uptime
   proc_version
+  proc_vmstat
   proc_zoneinfo
 }:file r_file_perms;
 
