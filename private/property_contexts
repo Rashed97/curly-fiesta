@@ -146,4 +146,4 @@ persist.odm.            u:object_r:vendor_default_prop:s0
 persist.vendor.         u:object_r:vendor_default_prop:s0
 vendor.                 u:object_r:vendor_default_prop:s0
 
-sys.update.channel      u:object_r:shell_prop:s0
+sys.update.             u:object_r:shell_prop:s0
