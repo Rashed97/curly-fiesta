@@ -128,6 +128,9 @@
     traced_tmpfs
     untrusted_app_all_devpts
     update_engine_log_data_file
+    updater
+    updater_devpts
+    updater_tmpfs
     vendor_default_prop
     vendor_security_patch_level_prop
     usbd
